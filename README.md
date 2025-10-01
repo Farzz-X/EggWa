@@ -10,11 +10,3 @@
 | Node Version                      | Egg Link          |
 | --------------------------------- | ----------------- |
 | `v12, v14, v16, v18, v20 and v22` | [Nodejs](/nodejs) |
-
-## Using Chrome and Nodejs in Pterodactyl to use for example Puppeteer
-
-- [Nodejs](https://nodejs.org)
-
-| Node Version                      | Egg Link                |
-| --------------------------------- | ----------------------- |
-| `v12, v14, v16, v18, v20 and v22` | [ChrNodejs](/chnodejs) |
