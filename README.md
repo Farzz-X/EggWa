@@ -1,6 +1,5 @@
 # Links
 
-- [Discord](https://discord.gg/aXvuUpvRQs) [Hedystia Discord]
 - [Pterodactyl](https://pterodactyl.io) [Pterodactyl]
 - [Web](https://risnt.my.id) [Ris Website]
 
